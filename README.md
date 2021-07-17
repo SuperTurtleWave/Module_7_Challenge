@@ -41,9 +41,9 @@ jupyter lab build
 
 ---
 
-![Voila Screenshots](Capture.png)
+![Voila Screenshots](Starter_Code/Capture.png)
 
-![Voila Screenshots](Capture2.png)
+![Voila Screenshots](Starter_Code/Capture2.png)
 
 
 ---
