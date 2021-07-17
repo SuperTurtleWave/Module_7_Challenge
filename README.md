@@ -41,7 +41,10 @@ jupyter lab build
 
 ---
 
-![Sample Map](/Starter_Code/Images/mapbox-plot.png)
+![Voila Screenshots](Capture.png)
+
+![Voila Screenshots](Capture2.png)
+
 
 ---
 
